@@ -1,5 +1,5 @@
 inputPath="hdfs://master:9000/terasort/terasort-18g"
-outputPath="hdfs://master:9000/grep/flink-out"
+outputPath="hdfs://master:9000/grep/spark-out"
 
 hadoop fs -rm -r $outputPath
 $SPARK_HOME/bin/spark-submit \
