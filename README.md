@@ -1,7 +1,7 @@
 A comparison of general-purpose distributed systems for data processing
 ======
 
-This project compares performance of different big data systems. Results are presented in the paper titled "A comparison of general-purpose distributed systems for data processing" in IEEE BigData 2016.
+This project compares performance of different big data systems. Results are presented in the paper titled "[A comparison of general-purpose distributed systems for data processing](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7840626&tag=1)" in IEEE BigData 2016.
 
 Systems
 -------
@@ -19,3 +19,7 @@ Applications
 * Single Source Shortest Path
 * Logistic Regression
 * Alternative Least Square
+
+Contact
+------
+If you find any problems in using the code, or improper references, please contact jfli@cse.cuhk.edu.hk. For better benchmarking, we encourage to use the latest releases of related systems.
